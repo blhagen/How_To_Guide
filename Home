@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>First Page</title>
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <legend>Here's my page</legend>
+        <label for='Name'></label>
+        <input type='text' name='Name' id='Name'>
+        <input type='submit' id='nameSubmit'>
+      </fieldset>
+      </form>
+      <div>
+        <h2>Here's an h2 in a div</h2>
+        <ul>
+          <li><span>list inside a span:</span><span id='Name'></span></li>
+          <li><span>another list item inside a span</span><span id='Name'></span></li>
+      </div>
+      <script>
+    </script>
+  </body>
+</html>
